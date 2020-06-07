@@ -1,0 +1,9 @@
+pwd
+ls - listet Verzeichnis
+cd - wechselt Verzeichnis
+git init - legt repository an
+git add - merkt vor
+git commit - committed
+git remove - löscht
+git remove cached - lässt Datei auf Festplatte
+git status - Status
